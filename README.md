@@ -3,10 +3,10 @@ HOW TO USE:
 2. Copy the URL in your browser's address bar.
 3. Paste it into <a href="https://raw.githack.com/">Githack</a>. You'll need the URL on the left in just a moment ("Use this URL for Production").
 4. Copy and paste this font declaration into your layout, underneath the `<style>` tag:
-   `@font-face {                 
+   `@font-face {     
      font-family: "replace this text with the name of your font";
      src:url(paste URL for Production here); }`
-5. Go ahead and replace the text as it says, then your font is installed!
+5. Go ahead and replace the text as it says, then your font is ready to use!
 
 Click images to view dynamic font previews. (Loads external font sites.)
 
