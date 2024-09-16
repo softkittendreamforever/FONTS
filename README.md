@@ -7,13 +7,23 @@
 4. Copy and paste this into your layout, underneath the `<style>` tag:
    ```
    @font-face {  
-      font-family: " FONT NAME ";
-      src:url( GITHACK URL ); }
+      font-family: " FONT NAME ", sans-serif;
+      src:url( GITHACK URL );
+      }
    ```  
 5. Type the name of your font where it says FONT NAME, in between the quotation marks. Don't delete the quotation marks!
-6. Now you'll need the URL from Step 3. Copy the one that says "Use this URL for Production".
+6. Now you'll need the URL from Step 3. Copy the one that says "Use this URL in Production".
 7. Paste that url in between the parenthesis, where it says GITHACK URL.<br><br>
-Your font is now ready to use!<br>
+
+Your font is now ready to use! It should look something like this:<br>
+```
+@font-face {
+   font-family: " Candy Cane Stripe ", sans-serif;
+   src:url(https://rawcdn.githack.com/softkittendreamforever/FONTS/e7199f12cbeaddd4ca98f0f1746fb8e1edac2e92/CandyCaneStripe.ttf);
+   }
+```
+
+If you want to use multiple fonts, just repeat these steps for each font you choose.<br>
 
 <h1>Font Previews</h1>
 
