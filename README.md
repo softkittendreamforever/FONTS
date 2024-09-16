@@ -21,7 +21,7 @@ Your font is now ready to use!<br>
 *Creator attribution, licensing information, and Terms Of Use can be viewed on their respective source sites. <br>
 *All fonts here are free for personal use. <br>
 
-Click images to view font source and test previews. (Loads external sites.)
+Click images to preview your own text. (Loads external sites.)
 
 <b>Detachable Penis</b><br><a href="https://www.ffonts.net/detachable-penis.font"><img src="https://d144mzi0q5mijx.cloudfront.net/img/D/E/detachable-penis.png" style="width:500px;"></a><br>
 <b>Frostbites Regular</b><br><a href="https://www.1001fonts.com/frostbites-font.html"><img src="https://font.download/images/169131/frostbites-regular-small-font-preview.jpg" style="width:500px;"></a><br>
