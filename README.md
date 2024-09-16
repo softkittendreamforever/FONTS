@@ -1,5 +1,5 @@
    
-<h1>How To Use:</h1>
+<h1>How To Use</h1>
 
 1. Click on a font file from the list above. (The page will appear to be blank.)
 2. Copy the URL in your browser's address bar.
@@ -27,5 +27,6 @@ Click images to preview your own text. (Loads external sites.)
 <b>Detachable Penis</b><br><a href="https://www.ffonts.net/detachable-penis.font"><img src="https://d144mzi0q5mijx.cloudfront.net/img/D/E/detachable-penis.png" style="width:500px;"></a><br>
 <b>Frostbites Regular</b><br><a href="https://www.1001fonts.com/frostbites-font.html"><img src="https://font.download/images/169131/frostbites-regular-small-font-preview.jpg" style="width:500px;"></a><br>
 <b>Highlight</b><br><a href="https://www.dafont.com/highlight-2.font?back=theme"><img src="https://www.dafont.com/img/preview/h/i/highlight_20.png" style="max-width:500px;"></a><br>
+<b>iArnold</b><br><a href="https://www.dafont.com/iarnold.font?back=theme"><img src="https://www.dafont.com/img/preview/i/a/iarnold0.png" style="width:500px;"></a><br>
 <b>I Found My Valentine</b><br><a href="https://www.dafont.com/i-found-my-valentine.font?back=theme"><img src="https://www.dafont.com/img/preview/i/_/i_found_my_valentine1.png" style="width:500px;"></a><br>
 <b>Kinlove</b><br><a href="https://www.dafont.com/kinlove.font"><img src="https://www.dafont.com/img/preview/k/i/kinlove1.png" style="width:500px;"></a>
