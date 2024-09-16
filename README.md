@@ -23,9 +23,9 @@ Your font is now ready to use!<br>
 
 Click images to preview your own text. (Loads external sites.)
 
+<b>Candy Cane Stripe</b><br><a href="https://www.dafont.com/kg-candy-cane-stripe.font?back=theme"><img src="https://www.dafont.com/img/preview/k/g/kg_candy_cane_stripe0.png" style="width:500px;"></a><br>
 <b>Detachable Penis</b><br><a href="https://www.ffonts.net/detachable-penis.font"><img src="https://d144mzi0q5mijx.cloudfront.net/img/D/E/detachable-penis.png" style="width:500px;"></a><br>
 <b>Frostbites Regular</b><br><a href="https://www.1001fonts.com/frostbites-font.html"><img src="https://font.download/images/169131/frostbites-regular-small-font-preview.jpg" style="width:500px;"></a><br>
 <b>Highlight</b><br><a href="https://www.dafont.com/highlight-2.font?back=theme"><img src="https://www.dafont.com/img/preview/h/i/highlight_20.png" style="max-width:500px;"></a><br>
 <b>I Found My Valentine</b><br><a href="https://www.dafont.com/i-found-my-valentine.font?back=theme"><img src="https://www.dafont.com/img/preview/i/_/i_found_my_valentine1.png" style="width:500px;"></a><br>
-<b>Candy Cane Stripe</b><br><a href="https://www.dafont.com/kg-candy-cane-stripe.font?back=theme"><img src="https://www.dafont.com/img/preview/k/g/kg_candy_cane_stripe0.png" style="width:500px;"></a><br>
 <b>Kinlove</b><br><a href="https://www.dafont.com/kinlove.font"><img src="https://www.dafont.com/img/preview/k/i/kinlove1.png" style="width:500px;"></a>
